@@ -26,7 +26,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/jaynish-shah-80b512131/'),
-          ('Another social link', '#'),)
+          ('Kaggle', 'https://www.kaggle.com/jaynishshah'),)
 
 DEFAULT_PAGINATION = 10
 
