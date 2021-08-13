@@ -1,6 +1,6 @@
 title: First Post on My Sweet New Blog
 date: 08/12/21
-author: Jay Shah
+author: Jaynish Shah
 
 # I am On My Way To Internet Fame and Fortune!
 
